@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "project": "OOT Remake Guide",
+    "website": "https://ootremake.wiki/",
+    "llms_txt": "https://ootremake.wiki/llms.txt",
+    "sitemap": "https://ootremake.wiki/sitemap.xml",
+    "game_title": "The Legend of Zelda: Ocarina of Time (Nintendo Switch 2 Remake)",
+    "platform": "Nintendo Switch 2 (Exclusive)",
+    "release_date": "2026-11-05",
+    "verified_version": "1.1.1",
+    "install_size": {
+      "base_gb": 24.8,
+      "patch_1_1_1_mb": 343
+    },
+    "last_verified": "2026-11-25"
+  },
+  "totals": {
+    "heart_pieces": 36,
+    "heart_containers_from_pieces": 9,
+    "gold_skulltulas": 100,
+    "gold_skulltulas_overworld": 56,
+    "gold_skulltulas_dungeon": 44,
+    "gold_skulltulas_night_only": 31,
+    "empty_bottles": 5,
+    "ocarina_songs": 13,
+    "fairy_thoughts": 15,
+    "great_fairy_fountains": 6,
+    "threads_of_time_events": 113,
+    "hall_of_fallen_foes_statues": 84,
+    "main_dungeons": 9,
+    "reworked_mini_dungeons": 3
+  },
+  "controls_and_qol": {
+    "manual_jump": "X (replaces 1998/2011 automatic ledge jump; also climbs waist-high ledges and triggers underwater swim-dash)",
+    "sprint_dash": "Hold A while moving (rolls into a continuous sprint)",
+    "jump_attack_modes": [
+      "Two-step Switch 2 input:ZL + X then Y in midair",
+      "Classic N64 input: ZL + Forward + single jump-slash press (both supported simultaneously)"
+    ],
+    "dpad_shortcuts": {
+      "left": "Draw Ocarina (Fairy Ocarina / Ocarina of Time)",
+      "down": "Toggle Iron Boots / Hover Boots instantly",
+      "up": "Equip Masks or Lenses of Truth (Adult Link can wear masks too)",
+      "right": "Consult Navi / read glowing Fairy Thoughts"
+    },
+    "save_system": "1 manual save slot + autosaves per Switch 2 user profile; fixed hero name 'Link' due to voiced cutscenes; reloads at exact saved location"
+  },
+  "wallets": [
+    { "tier": 1, "name": "Kokiri Wallet", "unlock": "Starting gear", "n64_3ds_cap": 99, "switch2_cap": 200 },
+    { "tier": 2, "name": "Adult's Wallet", "unlock": "10 Gold Skulltula tokens", "n64_3ds_cap": 200, "switch2_cap": 500 },
+    { "tier": 3, "name": "Giant's Wallet", "unlock": "30 Gold Skulltula tokens", "n64_3ds_cap": 500, "switch2_cap": 1000 }
+  ],
+  "gold_skulltula_rewards": [
+    { "tokens": 10, "reward": "Adult's Wallet (500 Rupees)", "changed_from_n64": true },
+    { "tokens": 20, "reward": "Echo Gem (light & sound Skulltula detector; replaces Stone/Shard of Agony)", "changed_from_n64": true },
+    { "tokens": 30, "reward": "Giant's Wallet (1,000 Rupees)", "changed_from_n64": true },
+    { "tokens": 40, "reward": "Bombchus", "changed_from_n64": false },
+    { "tokens": 50, "reward": "Piece of Heart (#12)", "changed_from_n64": false },
+    { "tokens": 100, "reward": "Repeatable 200-Rupee Gold Rupees", "changed_from_n64": false }
+  ],
+  "great_fairy_fountains": {
+    "sequential_rupee_tributes": [25, 50, 100, 200, 400, 800],
+    "total_rupees_all_six": 1575,
+    "locations": [
+      { "location": "Death Mountain Summit", "era": "Child/Adult", "requirement": "Bombs", "switch2_reward": "Din's Fire (casts in real time without freezing enemies) + Magic Meter", "swapped_with_hyrule_castle": true },
+      { "location": "Hyrule Castle Grounds", "era": "Child", "requirement": "Bombs", "switch2_reward": "Gift of Improved Spin (consumes zero Magic)", "swapped_with_death_mountain": true },
+      { "location": "Death Mountain Crater", "era": "Adult", "requirement": "Megaton Hammer", "switch2_reward": "Extended Magic Meter (2x)" },
+      { "location": "Zora Fountain", "era": "Child/Adult", "requirement": "Bombs on southeast iceberg/boulder wall", "switch2_reward": "Farore's Wind" },
+      { "location": "Evil Desert Colossus", "era": "Child/Adult", "requirement": "Bombs on north cracked cliff", "switch2_reward": "Nayru's Love" },
+      { "location": "Outside Ganondorf's Castle", "era": "Adult", "requirement": "Golden Gauntlets", "switch2_reward": "Gift of Halved Damage (double defense)" }
+    ]
+  },
+  "empty_bottles": [
+    { "slot": 1, "location": "Hyrule Castle Town Market — Potion Shop", "era": "Child", "method": "Brand-new Switch 2 quest: catch the shopkeeper's escaped Bug inside the shop (comes filled with Red Potion)", "status": "New in Switch 2 Remake" },
+    { "slot": 2, "location": "Lon Lon Ranch — Talon's House", "era": "Child", "method": "Find 3 Super Cuccos in 30 seconds (comes filled with Lon Lon Milk)", "status": "Classic" },
+    { "slot": 3, "location": "Kakariko Village — Anju's Cucco Pen", "era": "Child", "method": "Gather all 7 Cuccos into the pen during daytime", "status": "Classic" },
+    { "slot": 4, "location": "Lake Hylia — Underwater Basin", "era": "Child", "method": "Dive with the Silver Scale to pick up Ruto's Letter", "status": "Story Required" },
+    { "slot": 5, "location": "Ruined Castle Town Guardhouse — Ghost Shop", "era": "Adult", "method": "Sell 5 Big Poes (500 points) instead of N64/3DS's 10 Big Poes (10 Big Poes now awards a Gold Rupee)", "status": "Halved in Switch 2 Remake" }
+  ],
+  "ocarina_songs": [
+    { "name": "Zelda's Lullaby", "category": "utility", "buttons": ["Y", "X", "A", "Y", "X", "A"], "source": "Impa at Hyrule Castle Courtyard" },
+    { "name": "Epona's Song", "category": "utility", "buttons": ["X", "Y", "A", "X", "Y", "A"], "source": "Malon at Lon Lon Ranch (Child)" },
+    { "name": "Saria's Song", "category": "utility", "buttons": ["R", "A", "Y", "R", "A", "Y"], "source": "Saria in the Sacred Grove" },
+    { "name": "Sun's Song", "category": "utility", "buttons": ["A", "R", "X", "A", "R", "X"], "source": "Tomb of the Royal Family in Kakariko Graveyard" },
+    { "name": "Song of Time", "category": "utility", "buttons": ["A", "L", "R", "A", "L", "R"], "source": "Princess Zelda at Castle Town Moat" },
+    { "name": "Song of Storms", "category": "utility", "buttons": ["L", "R", "X", "L", "R", "X"], "source": "Windmill music man in Kakariko Village (Adult)" },
+    { "name": "Minuet of the Forest", "category": "warp", "buttons": ["L", "X", "Y", "A", "Y", "A"], "source": "Sheik at Sacred Grove (Adult)" },
+    { "name": "Bolero of Fire", "category": "warp", "buttons": ["R", "L", "R", "L", "A", "R", "A", "R"], "source": "Sheik in Death Mountain Crater" },
+    { "name": "Serenade of Water", "category": "warp", "buttons": ["L", "R", "A", "A", "Y"], "source": "Sheik inside Ice Cavern" },
+    { "name": "Nocturne of Shadow", "category": "warp", "buttons": ["Y", "A", "A", "L", "Y", "A", "R"], "source": "Sheik in burning Kakariko Village" },
+    { "name": "Requiem of Spirit", "category": "warp", "buttons": ["L", "R", "L", "A", "R", "L"], "source": "Sheik at Evil Desert Colossus" },
+    { "name": "Prelude of Light", "category": "warp", "buttons": ["X", "A", "X", "A", "Y", "X"], "source": "Sheik in Temple of Time after Forest Temple" },
+    { "name": "Scarecrow Song", "category": "custom", "buttons": ["Custom 8 notes (2+ distinct buttons)"], "source": "Bonooru at Lake Hylia (Child -> Adult)" }
+  ],
+  "hall_of_fallen_foes_gauntlets": [
+    { "statue": "Stone Kaepora Gaebora", "trial": "Trial of the Spiritual Stones", "boss_count": 3, "bosses": ["Gohma", "King Dodongo", "Barinade"], "house_reward": "Stone Trophy Statue" },
+    { "statue": "Silver Kaepora Gaebora", "trial": "Trial of the Five Sages", "boss_count": 5, "bosses": ["Phantom Ganon", "Volvagia", "Morpha", "Bongo Bongo", "Twinrova"], "house_reward": "Silver Trophy Statue" },
+    { "statue": "Gold Kaepora Gaebora", "trial": "Trial of the Hero of Time", "boss_count": 10, "bosses": ["Gohma", "King Dodongo", "Barinade", "Phantom Ganon", "Volvagia", "Morpha", "Bongo Bongo", "Twinrova", "Ganondorf", "Ganon (4 phases)"], "house_reward": "Gold Trophy Statue + Ornate Hall Banners" }
+  ],
+  "localization_renames": {
+    "Inside the Deku Tree": "Great Deku Tree",
+    "Dodongo's Cavern": "Dodongo Cavern",
+    "Inside Jabu-Jabu's Belly": "Lord Jabu-Jabu's Belly",
+    "Sacred Forest Meadow": "Sacred Grove",
+    "Zora's Domain / Fountain": "Zora Domain / Zora Fountain",
+    "Haunted Wasteland": "Mirage Desert",
+    "Gerudo Training Grounds": "Gerudo Proving Grounds",
+    "Ganon's Castle": "Inside Ganondorf's Castle",
+    "Biggoron's Sword": "Biggoron Sword",
+    "Claim Check": "Biggoron Receipt",
+    "Eye Drops": "Specialty Eyedrops",
+    "Odd Potion": "Odd Poultice",
+    "Pocket Cucco": "Wake-Up Cucco",
+    "Lens of Truth": "Lenses of Truth",
+    "Stone of Agony": "Echo Gem",
+    "Gerudo Token": "Gerudo Pass",
+    "Happy Mask Salesman": "Happy Mask Shopkeeper"
+  }
+}

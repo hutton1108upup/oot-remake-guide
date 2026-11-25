@@ -1,0 +1,29 @@
+{
+  "name": "oot-remake-guide",
+  "version": "1.2.0",
+  "description": "Unofficial Ocarina of Time Remake (Nintendo Switch 2, v1.1.1) wiki directory, verified N64/3DS vs Switch 2 mechanics JSON dataset, and CLI tracker hash decoder.",
+  "type": "module",
+  "homepage": "https://ootremake.wiki/",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "bin": {
+    "oot-guide": "./scripts/oot-tracker-and-lookup.mjs"
+  },
+  "scripts": {
+    "start": "node ./scripts/oot-tracker-and-lookup.mjs",
+    "songs": "node ./scripts/oot-tracker-and-lookup.mjs --songs",
+    "fairies": "node ./scripts/oot-tracker-and-lookup.mjs --fairies"
+  },
+  "keywords": [
+    "ocarina-of-time-remake",
+    "oot-remake",
+    "oot-remake-guide",
+    "oot-switch-2",
+    "nintendo-switch-2",
+    "zelda-wiki",
+    "heart-pieces-tracker",
+    "gold-skulltulas-tracker"
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "site": "https://ootremake.wiki",
+  "llms_txt": "https://ootremake.wiki/llms.txt",
+  "primary_keyword": "ocarina of time remake guide",
+  "secondary_hub_keywords": [
+    "ocarina of time remake wiki",
+    "oot remake guide",
+    "zelda ocarina of time switch 2 walkthrough"
+  ],
+  "routes": [
+    {
+      "path": "/",
+      "url": "https://ootremake.wiki/",
+      "category": "hub",
+      "title": "Ocarina of Time Remake Wiki & Guide: OoT Switch 2",
+      "target_keywords": ["ocarina of time remake guide", "ocarina of time remake wiki", "oot switch 2 guide"],
+      "summary": "Main Switch 2 remake hub with first-screen entries to N64/3DS changes, interactive trackers, 9-dungeon order, and beginner checklist."
+    },
+    {
+      "path": "/changes/vs-n64",
+      "url": "https://ootremake.wiki/changes/vs-n64",
+      "category": "changes",
+      "title": "Ocarina of Time Remake vs N64 & 3DS: Every Change Listed",
+      "target_keywords": ["ocarina of time remake changes", "ocarina of time remake vs n64", "oot remake differences"],
+      "summary": "Side-by-side N64 vs 3DS vs Switch 2 comparison covering controls, 200/500/1,000 wallets, Zora Domain unfreezing, VRR docked flicker fix, and renames."
+    },
+    {
+      "path": "/changes/manual-jump",
+      "url": "https://ootremake.wiki/changes/manual-jump",
+      "category": "changes",
+      "title": "Ocarina of Time Remake Manual Jump & Controls Guide",
+      "target_keywords": ["ocarina of time remake manual jump", "oot remake controls", "oot switch 2 jump attack"],
+      "summary": "Full Switch 2 button mapping: X manual jump, Hold A sprint, D-Pad shortcuts, Business Scrub Seed, and dual two-step + classic Jump Attack inputs."
+    },
+    {
+      "path": "/changes/fairy-thoughts",
+      "url": "https://ootremake.wiki/changes/fairy-thoughts",
+      "category": "changes",
+      "title": "Ocarina of Time Remake Fairy Thoughts: Locations & Songs",
+      "target_keywords": ["ocarina of time remake fairy thoughts", "oot remake fairy thoughts locations"],
+      "summary": "All 15 glowing Fairy Thought locations across Child and Adult eras, matching Ocarina songs for free healing, and relocated Heart Piece clues."
+    },
+    {
+      "path": "/changes/threads-of-time",
+      "url": "https://ootremake.wiki/changes/threads-of-time",
+      "category": "changes",
+      "title": "Ocarina of Time Remake Threads of Time Tapestry Guide",
+      "target_keywords": ["ocarina of time remake threads of time", "oot remake tapestry events", "threads of time zelda notes"],
+      "summary": "All 113 tracked Event cutscenes by chapter (35 + 43 + 35), 17 missable optional panels (including Kaepora Gaebora owl flights), and Zelda Notes dub switching."
+    },
+    {
+      "path": "/changes/hall-of-fallen-foes",
+      "url": "https://ootremake.wiki/changes/hall-of-fallen-foes",
+      "category": "changes",
+      "title": "Hall of Fallen Foes Guide: OoT Remake Unlock & Rewards",
+      "target_keywords": ["hall of fallen foes", "oot remake boss rush", "kakariko grand lodge oot remake"],
+      "summary": "How to enter via glowing green beds after the Forest Temple, Kakariko Grand Lodge location, 84 enemy statues, and all 3 limited-gear boss gauntlets."
+    },
+    {
+      "path": "/changes/post-game-content",
+      "url": "https://ootremake.wiki/changes/post-game-content",
+      "category": "changes",
+      "title": "Post-Game Content & Trophies: OoT Remake 100% Guide",
+      "target_keywords": ["ocarina of time remake post game", "oot remake trophies", "oot remake 100% checklist"],
+      "summary": "Starred Clear Save unlocks, 10-boss Trial of the Hero of Time, Link's House Proof of Victory statues, and Zelda Notes completion medals."
+    },
+    {
+      "path": "/collectibles/heart-pieces",
+      "url": "https://ootremake.wiki/collectibles/heart-pieces",
+      "category": "collectibles",
+      "title": "Ocarina of Time Remake Heart Pieces: All 36 Tracker",
+      "target_keywords": ["ocarina of time remake heart pieces", "oot remake pieces of heart tracker", "dampe gravedigging tour switch 2"],
+      "summary": "Interactive 36-item browser checklist with shareable #p= URL hash, relocated Field grotto solutions, and Dampé's all-night digging rules."
+    },
+    {
+      "path": "/collectibles/gold-skulltulas",
+      "url": "https://ootremake.wiki/collectibles/gold-skulltulas",
+      "category": "collectibles",
+      "title": "Ocarina of Time Remake Gold Skulltulas: All 100 Tracker",
+      "target_keywords": ["ocarina of time remake gold skulltulas", "oot remake echo gem", "100 gold skulltulas tracker"],
+      "summary": "Interactive 100-token tracker with night-only filters, 20-token Echo Gem cross-era chime troubleshooting, and 200/500/1,000 Rupee wallet tiers."
+    },
+    {
+      "path": "/collectibles/empty-bottles",
+      "url": "https://ootremake.wiki/collectibles/empty-bottles",
+      "category": "collectibles",
+      "title": "Ocarina of Time Remake Empty Bottles: All 5 Locations",
+      "target_keywords": ["ocarina of time remake empty bottles", "oot remake 5th bottle", "oot remake big poes"],
+      "summary": "All 5 Empty Bottle locations, including the new Castle Town Potion Shop escaped-bug quest and the halved 5-Big-Poe Ghost Shop requirement."
+    },
+    {
+      "path": "/collectibles/great-fairy-fountains",
+      "url": "https://ootremake.wiki/collectibles/great-fairy-fountains",
+      "category": "collectibles",
+      "title": "Ocarina of Time Remake Great Fairy Fountains & Rupees",
+      "target_keywords": ["ocarina of time remake great fairy fountains", "oot remake great fairy rupee cost", "oot remake dins fire location"],
+      "summary": "All 6 Great Fairy locations, escalating 25-to-800 Rupee tributes (1,575 total), passive Collection blessings, real-time Din's Fire, and zero-magic Spin Attack."
+    },
+    {
+      "path": "/collectibles/masks-quest",
+      "url": "https://ootremake.wiki/collectibles/masks-quest",
+      "category": "collectibles",
+      "title": "Ocarina of Time Remake Happy Mask Shop & Mask of Truth",
+      "target_keywords": ["ocarina of time remake happy mask shop", "oot remake bunny hood running man", "oot remake mask of truth"],
+      "summary": "Complete 4-mask Child trading quest, 1,000-Rupee Giant's Wallet Bunny Hood payout trick, fixed Forest Stage Deku Nut upgrade, and Adult D-Pad Up masks."
+    },
+    {
+      "path": "/collectibles/biggoron-sword",
+      "url": "https://ootremake.wiki/collectibles/biggoron-sword",
+      "category": "collectibles",
+      "title": "Ocarina of Time Remake Biggoron Sword Trade Guide",
+      "target_keywords": ["ocarina of time remake biggoron sword", "oot remake trading sequence", "specialty eyedrops oot remake"],
+      "summary": "All 11 Adult trading steps, Switch 2 item renames (Wake-Up Cucco, Odd Poultice, Specialty Eyedrops, Biggoron Receipt), and no-warp Epona timer routes."
+    },
+    {
+      "path": "/collectibles/ocarina-songs",
+      "url": "https://ootremake.wiki/collectibles/ocarina-songs",
+      "category": "collectibles",
+      "title": "Ocarina of Time Remake Songs List: Buttons & Mic Guide",
+      "target_keywords": ["ocarina of time remake songs", "oot switch 2 ocarina buttons", "ocarina of time remake microphone humming"],
+      "summary": "All 13 melodies with Switch 2 L/R/A/Y/X inputs, Scarecrow Song setup, microphone humming & real instrument pitch detection, and 5.1ch orchestral audio notes."
+    },
+    {
+      "path": "/walkthrough/great-deku-tree",
+      "url": "https://ootremake.wiki/walkthrough/great-deku-tree",
+      "category": "dungeon",
+      "title": "Ocarina of Time Remake Great Deku Tree Walkthrough",
+      "target_keywords": ["ocarina of time remake great deku tree", "oot remake gohma", "2 3 1 scrub code"],
+      "summary": "Dungeon 1 walkthrough: X-jump web break, 2-3-1 Scrub trio, Gold Skulltulas #57-#60, and Gohma's upper head-arm guard tell."
+    },
+    {
+      "path": "/walkthrough/dodongo-cavern",
+      "url": "https://ootremake.wiki/walkthrough/dodongo-cavern",
+      "category": "dungeon",
+      "title": "Ocarina of Time Remake Dodongo Cavern Walkthrough",
+      "target_keywords": ["ocarina of time remake dodongo cavern", "oot remake king dodongo", "goron bracelet oot remake"],
+      "summary": "Dungeon 2 walkthrough: Darunia's Saria's Song unlock, Bomb Bag, giant skull eyes, Gold Skulltulas #61-#65, and King Dodongo."
+    },
+    {
+      "path": "/walkthrough/lord-jabu-jabus-belly",
+      "url": "https://ootremake.wiki/walkthrough/lord-jabu-jabus-belly",
+      "category": "dungeon",
+      "title": "Ocarina of Time Remake Lord Jabu-Jabu's Belly Guide",
+      "target_keywords": ["ocarina of time remake jabu jabus belly", "oot remake barinade", "fork in the guts oot remake"],
+      "summary": "Dungeon 3 walkthrough: streamlined 1F central corridor (Fork in the Guts), Boomerang, Parasitic Tentacles, Big Octo, Gold Skulltulas #66-#69, and Barinade."
+    },
+    {
+      "path": "/walkthrough/bottom-of-the-well",
+      "url": "https://ootremake.wiki/walkthrough/bottom-of-the-well",
+      "category": "mini-dungeon",
+      "title": "Ocarina of Time Remake Bottom of the Well Walkthrough",
+      "target_keywords": ["ocarina of time remake bottom of the well", "oot remake lenses of truth", "dead hand bottom of the well switch 2"],
+      "summary": "Child mini-dungeon walkthrough: Song of Storms Windmill drain, relocated northern Dead Hand fake-floor corridor, Lenses of Truth, and Skulltulas #70-#72."
+    },
+    {
+      "path": "/walkthrough/forest-temple",
+      "url": "https://ootremake.wiki/walkthrough/forest-temple",
+      "category": "dungeon",
+      "title": "Ocarina of Time Remake Forest Temple Walkthrough",
+      "target_keywords": ["ocarina of time remake forest temple", "oot remake phantom ganon", "meg poe sister tells switch 2"],
+      "summary": "Dungeon 4 walkthrough: locked lobby door preventing Key #1 lockout, Stone Tower elevator, streamlined frozen-eye shot, Meg's 3 tells, and Hookshot Phantom Ganon."
+    },
+    {
+      "path": "/walkthrough/fire-temple",
+      "url": "https://ootremake.wiki/walkthrough/fire-temple",
+      "category": "dungeon",
+      "title": "Ocarina of Time Remake Fire Temple Walkthrough",
+      "target_keywords": ["ocarina of time remake fire temple", "oot remake volvagia", "volvagia ice arrows switch 2"],
+      "summary": "Dungeon 5 walkthrough: 3F anti-fall magma floor, permanent Flame Wall switch, Megaton Hammer, Gold Skulltulas #78-#82, and Volvagia's Ice Arrow weakness."
+    },
+    {
+      "path": "/walkthrough/ice-cavern",
+      "url": "https://ootremake.wiki/walkthrough/ice-cavern",
+      "category": "mini-dungeon",
+      "title": "Ocarina of Time Remake Ice Cavern Walkthrough & Boots",
+      "target_keywords": ["ocarina of time remake ice cavern", "oot remake iron boots", "oot remake blue fire"],
+      "summary": "Adult mini-dungeon walkthrough: solid Zora Fountain ice bridge, silver lock-gems, bottled Blue Fire for free Zora Tunic, Iron Boots, and Skulltulas #98-#100."
+    },
+    {
+      "path": "/water-temple",
+      "url": "https://ootremake.wiki/water-temple",
+      "category": "dungeon",
+      "title": "Ocarina of Time Remake Water Temple Walkthrough",
+      "target_keywords": ["ocarina of time remake water temple", "oot remake dark link", "does zora domain unfreeze oot remake"],
+      "summary": "Dungeon 6 walkthrough: D-Pad Down Iron Boots, Low/Middle/High water sequence, removed central pagoda key, Dark Link, Morpha, and Zora Domain unfreezing."
+    },
+    {
+      "path": "/walkthrough/shadow-temple",
+      "url": "https://ootremake.wiki/walkthrough/shadow-temple",
+      "category": "dungeon",
+      "title": "Ocarina of Time Remake Shadow Temple Walkthrough",
+      "target_keywords": ["ocarina of time remake shadow temple", "oot remake bongo bongo", "hover boots oot remake"],
+      "summary": "Dungeon 7 walkthrough: Hover Boots, relocated ferry bird statue shortcut, Skulltulas #88-#92, and Bongo Bongo's Ice Arrow hand-freeze counter."
+    },
+    {
+      "path": "/walkthrough/gerudo-proving-grounds",
+      "url": "https://ootremake.wiki/walkthrough/gerudo-proving-grounds",
+      "category": "mini-dungeon",
+      "title": "Ocarina of Time Remake Gerudo Proving Grounds Guide",
+      "target_keywords": ["ocarina of time remake gerudo proving grounds", "gerudo training grounds switch 2", "oot remake ice arrows"],
+      "summary": "Adult mini-dungeon walkthrough: relocated road entrance, 30-Rupee fee (free after clearing), optimal 7-key inner spiral route, Trick Chest mist cue, and Ice Arrows."
+    },
+    {
+      "path": "/walkthrough/spirit-temple",
+      "url": "https://ootremake.wiki/walkthrough/spirit-temple",
+      "category": "dungeon",
+      "title": "Ocarina of Time Remake Spirit Temple Walkthrough",
+      "target_keywords": ["ocarina of time remake spirit temple", "oot remake twinrova", "iron knuckle shield block switch 2"],
+      "summary": "Dungeon 8 Child & Adult walkthrough: shield-blockable Iron Knuckles, indented Armos floor switch, Silver Gauntlets, Beamos-reflecting Mirror Shield, and Twinrova."
+    },
+    {
+      "path": "/walkthrough/ganondorfs-castle",
+      "url": "https://ootremake.wiki/walkthrough/ganondorfs-castle",
+      "category": "dungeon",
+      "title": "Ocarina of Time Remake Ganondorf's Castle Walkthrough",
+      "target_keywords": ["ocarina of time remake ganondorfs castle", "oot remake ganon 4 phases", "ganondorf longshot grapple"],
+      "summary": "Final dungeon walkthrough: Shadow Trial Golden Gauntlets order, base Tower elevator, Longshot grapple on stunned Ganondorf, untimed escape, and 4-phase Ganon."
+    },
+    {
+      "path": "/master-quest-dlc",
+      "url": "https://ootremake.wiki/master-quest-dlc",
+      "category": "extras",
+      "title": "Is Master Quest in Ocarina of Time Remake? 2026 DLC Info",
+      "target_keywords": ["is master quest in ocarina of time remake", "oot remake master quest dlc", "oot remake hard mode"],
+      "summary": "Clear breakdown between launch absence (Confirmed), datamined MQ/NewGameMQ strings (Reported), Hall of Fallen Foes gauntlets, and 3-Heart challenge rules."
+    },
+    {
+      "path": "/amiibo-unlocks",
+      "url": "https://ootremake.wiki/amiibo-unlocks",
+      "category": "extras",
+      "title": "Ocarina of Time Remake amiibo Unlocks & N64 Masks",
+      "target_keywords": ["ocarina of time remake amiibo", "oot remake zelda notes", "young link n64 mask amiibo"],
+      "summary": "How to enable amiibo in Options, 2027 Young Link & Young Zelda N64 polygonal masks, Business Scrub Seed drops, and Zelda Notes v1.1.1 account-bound medals."
+    }
+  ]
+}

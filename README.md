@@ -3,7 +3,7 @@
 [![Live Wiki](https://img.shields.io/badge/Live_Wiki-ootremake.wiki-d4af37?style=flat-square)](https://ootremake.wiki/)
 [![Heart Pieces Tracker](https://img.shields.io/badge/Interactive_Tool-36_Heart_Pieces_Tracker-e05263?style=flat-square)](https://ootremake.wiki/collectibles/heart-pieces)
 [![Gold Skulltulas Tracker](https://img.shields.io/badge/Interactive_Tool-100_Gold_Skulltulas_Tracker-22d3ee?style=flat-square)](https://ootremake.wiki/collectibles/gold-skulltulas)
-[![Verified Version](https://img.shields.io/badge/Verified_Update-v1.1.1_(Switch_2)-4ade80?style=flat-square)](https://ootremake.wiki/changes/vs-n64)
+[![Verified Version](https://img.shields.io/badge/Verified_Update-v1.1.2_(Switch_2)-4ade80?style=flat-square)](https://ootremake.wiki/updates)
 [![License: MIT](https://img.shields.io/badge/License-MIT-a78bfa?style=flat-square)](./LICENSE)
 
 **Official Live Wiki & Interactive Trackers:** **[https://ootremake.wiki/](https://ootremake.wiki/)**
@@ -65,8 +65,8 @@ This companion open-source repository publishes our structured **Switch 2 vs. N6
 | **Dungeon 8 (Both)** | **Spirit Temple** | [/walkthrough/spirit-temple](https://ootremake.wiki/walkthrough/spirit-temple) | Shield-blockable Iron Knuckles, indented Armos switch, Silver Gauntlets, Mirror Shield & Twinrova |
 | **Dungeon 9 (Adult)** | **Inside Ganondorf's Castle** | [/walkthrough/ganondorfs-castle](https://ootremake.wiki/walkthrough/ganondorfs-castle) | Base Tower elevator, Longshot grapple on Ganondorf, untimed escape & **4-phase Ganon** |
 
-### 4. Extras, DLC Status & AI/Machine Endpoints
-- **DLC & Companion App Guides:** [Is Master Quest in Ocarina of Time Remake? (`/master-quest-dlc`)](https://ootremake.wiki/master-quest-dlc) · [amiibo Unlocks, 2027 N64 Masks & Zelda Notes (`/amiibo-unlocks`)](https://ootremake.wiki/amiibo-unlocks)
+### 4. Updates, DLC Status & AI/Machine Endpoints
+- **Patches, DLC & Companion App:** [Ver. 1.1.2 & Ver. 1.1.1 Updates & Release Timeline (`/updates`)](https://ootremake.wiki/updates) · [Is Master Quest in Ocarina of Time Remake? (`/master-quest-dlc`)](https://ootremake.wiki/master-quest-dlc) · [amiibo Unlocks, 2027 N64 Masks & Zelda Notes (`/amiibo-unlocks`)](https://ootremake.wiki/amiibo-unlocks)
 - **Machine-Readable Index:** [`llms.txt`](https://ootremake.wiki/llms.txt) · [`sitemap.xml`](https://ootremake.wiki/sitemap.xml)
 
 ---
@@ -96,6 +96,8 @@ This table maps primary *Ocarina of Time Remake* search queries and recurring Ni
 | **`ocarina of time remake bottom of the well` / `lenses of truth`** | Drain via Windmill *Song of Storms*; Dead Hand moved behind northern drain station under an illusory fake floor | [/walkthrough/bottom-of-the-well](https://ootremake.wiki/walkthrough/bottom-of-the-well) |
 | **`ocarina of time remake gerudo proving grounds` / `ice arrows`** | Relocated road gate (`30 Rupees` with Gerudo Pass); follow the **7-key** inner spiral route for Ice Arrows | [/walkthrough/gerudo-proving-grounds](https://ootremake.wiki/walkthrough/gerudo-proving-grounds) |
 | **`ocarina of time remake amiibo` / `zelda notes`** | Enable amiibo in Options after Hyrule Field; 2027 Young Link/Zelda N64 masks + free *Zelda Notes* (`v1.1.1`) | [/amiibo-unlocks](https://ootremake.wiki/amiibo-unlocks) |
+| **`ocarina of time update` / `ver 1.1.2 patch notes`** | **Ver. 1.1.2** (Nov 25, 2026) fixes Lon Lon Ranch's *Malon's Friend* progression bug retroactively + stability fixes | [/updates](https://ootremake.wiki/updates) |
+| **`ocarina of time release date 2026` / `early access`** | Switch 2 launched **Nov 5, 2026** (no early access; **96/100 Metacritic**); original N64 launched **Nov 21/23, 1998** | [/updates](https://ootremake.wiki/updates) |
 | **`oot remake docked screen flicker` / `turn off voice acting`** | Disable **VRR** in Switch 2 Display settings to stop 120Hz flicker; swap dubs via *Zelda Notes* `Threads of Time+` | [/changes/vs-n64](https://ootremake.wiki/changes/vs-n64) |
 
 ---
